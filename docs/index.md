@@ -1,11 +1,18 @@
-# Obsidian Notes
+# Welcome to the Corvid Tower
 
-Publish your public notes with MkDocs
+I'm glad you found this place. I made this as a web-based form of nexus point
+for various things that I'm doing
 
-## Hello World!
+## About Me 
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+Hi, I'm known on the internet as Raven Corvonne. I'm an Indie game developer,
+musician, artist, and overall absolute dipshit on the internet. I'm currently
+studying Cybersecurity at my local college, while also developing a *Mega Man
+Battle Network*-inspired game im calling *Deiform*
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+On this site you'll find a general blog about things ive been doing or thinking
+about over the week, a devlog for *Deiform*, as well as links to my Discord,
+Twitch, and other social media outlets.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+I hope you enjoy the things i do here, I intend to be doing them for a good
+long while.
